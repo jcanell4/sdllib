@@ -6,9 +6,9 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <scm>
-        <connection>scm:git:git://github.com/jcanell4/project.git</connection>
-        <developerConnection>scm:git:git@github.com:username/project.git</developerConnection>
-        <url>http://github.com/username/project</url>
+        <connection>scm:git:git://github.com/jcanell4/sdllib.git</connection>
+        <developerConnection>scm:git:git@github.com:canell4/sdllib.git</developerConnection>
+        <url>http://github.com/jcanell4/sdllib</url>
     </scm>
     <dependencies>
         <dependency>
@@ -61,7 +61,7 @@
             <repository>
                 <id>github</id>
                 <name>GitHub OWNER Apache Maven Packages</name>
-                <url>https://maven.pkg.github.com/jcanell4/SdlLib</url>
+                <url>https://maven.pkg.github.com/jcanell4/sdllib</url>
             </repository>
         </distributionManagement>  
     <properties>
