@@ -5,6 +5,11 @@
     <artifactId>SdlLib</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <scm>
+        <connection>scm:git:git://github.com/jcanell4/project.git</connection>
+        <developerConnection>scm:git:git@github.com:username/project.git</developerConnection>
+        <url>http://github.com/username/project</url>
+    </scm>
     <dependencies>
         <dependency>
             <groupId>javax.xml.bind</groupId>
