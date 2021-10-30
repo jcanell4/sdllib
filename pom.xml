@@ -63,7 +63,7 @@
                 <name>GitHub OWNER Apache Maven Packages</name>
                 <url>https://maven.pkg.github.com/jcanell4/sdllib</url>
             </repository>
-        </distributionManagement>  
+    </distributionManagement>  
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>14</maven.compiler.source>
